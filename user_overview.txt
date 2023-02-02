@@ -1,0 +1,24 @@
+User overview report:
+The total number of users registered: 3
+The total number of tasks: 9
+
+Statistics for admin:
+Total number of tasks: 5
+Percentage of assigned tasks: 55.56%.
+Percentage of completed tasks assigned: 20.0%.
+Percentage of incomplete tasks assigned: 80.0%.
+Percentage of incomplete and overdue tasks assigned: 40.0%.
+
+Statistics for bonnie:
+Total number of tasks: 3
+Percentage of assigned tasks: 33.33%.
+Percentage of completed tasks assigned: 33.33%.
+Percentage of incomplete tasks assigned: 66.67%.
+Percentage of incomplete and overdue tasks assigned: 0.0%.
+
+Statistics for alice:
+Total number of tasks: 1
+Percentage of assigned tasks: 11.11%.
+Percentage of completed tasks assigned: 0.0%.
+Percentage of incomplete tasks assigned: 100.0%.
+Percentage of incomplete and overdue tasks assigned: 0.0%.
